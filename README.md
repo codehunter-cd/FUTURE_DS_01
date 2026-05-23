@@ -27,7 +27,7 @@
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+<img width="1315" height="747" alt="Dashboard" src="https://github.com/codehunter-cd/FUTURE_DS_01/blob/main/Screenshot%202026-05-23%20234538.png"/>
 
 ---
 
